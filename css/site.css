@@ -419,7 +419,7 @@ button { font-family:inherit; }
 .loop-track {
   display: flex;
   gap: 16px;
-  animation: loopScroll 28s linear infinite;
+  animation: loopScroll 44s linear infinite;
   width: max-content;
 }
 .loop-track:hover { animation-play-state: paused; }
